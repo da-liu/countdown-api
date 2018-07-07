@@ -1,0 +1,12 @@
+{
+  "name": "countdown-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server db.json -p 3001"
+  },
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}
